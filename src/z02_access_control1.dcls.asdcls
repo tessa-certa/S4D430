@@ -1,0 +1,11 @@
+@EndUserText.label: 'zugriffskontrolle anlegen'
+@MappingRole: true
+define role Z02_ACCESS_CONTROL1 {
+    grant
+        select
+            on
+                Z02_AUTHORIZATIONS
+                    where ( carrid )=aspect pfcg_auth( S_Carrid, CARRID, ACTVT = '03');
+                      
+                        
+}

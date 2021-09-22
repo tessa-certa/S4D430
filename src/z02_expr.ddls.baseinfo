@@ -1,0 +1,14 @@
+{
+"BASEINFO":
+{
+"FROM":
+[
+"SBOOK",
+"SCUSTOM"
+],
+"ASSOCIATED":
+[],
+"BASE":
+[]
+}
+}

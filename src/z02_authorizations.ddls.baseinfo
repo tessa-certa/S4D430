@@ -1,0 +1,15 @@
+{
+"BASEINFO":
+{
+"FROM":
+[
+"S4D430_BOOKING"
+],
+"ASSOCIATED":
+[
+"S4D430_CUSTOMER"
+],
+"BASE":
+[]
+}
+}
